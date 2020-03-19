@@ -8,7 +8,7 @@ Smart Security System using Rpi and python with Motion detection
 use the following command to install all the
 
 ```
-pip install -r requirements
+pip3 install -r requirements
 ```
 
 ## Add Username & Password in mail.py file:
@@ -24,7 +24,7 @@ toEmail = "email id of recipient"
 ## Run:
 
 ```
-python Motion.py 
+python3 Motion.py 
 ```
 
 ## Owner:
