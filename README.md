@@ -11,6 +11,10 @@ use the following command to install all the
 pip3 install -r requirements
 ```
 
+# VIDEO:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OCpZlQoH7Os/0.jpg)](https://www.youtube.com/watch?v=OCpZlQoH7Os)
+OCpZlQoH7Os
 ## Add Username & Password in mail.py file:
 
 ```
